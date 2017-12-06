@@ -1,6 +1,6 @@
 # ModularAdmin: Free Bootstrap 4 Dashboard Theme <br> HTML version
 
-[![demo](http://demo.themewagon.com/preview/bootstrap-4-free-admin-template)](https://github.com/technext/modular-admin)
+[![demo](https://github.com/technext/modular-admin/blob/master/src/_assets/demo.png)](http://demo.themewagon.com/preview/bootstrap-4-free-admin-template)
 
 [![HTML5 jQuery Bootstrap4 SASS Handlebars Gulp Bower](http://modularcode.github.io/modular-admin-html/assets/features.png)](http://modularcode.github.io/modular-admin-html/)
 
