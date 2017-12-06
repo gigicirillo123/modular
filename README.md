@@ -1,8 +1,6 @@
 # ModularAdmin: Free Bootstrap 4 Dashboard Theme <br> HTML version
 
-[![Backers on Open Collective](https://opencollective.com/modular-admin-html/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/modular-admin-html/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/modularcode/modular-admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/modularcode/modular-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![demo](http://modularcode.github.io/modular-admin-html/assets/demo.png)](http://modularcode.github.io/modular-admin-html/)
+[![demo](http://demo.themewagon.com/preview/bootstrap-4-free-admin-template)](https://github.com/technext/modular-admin)
 
 [![HTML5 jQuery Bootstrap4 SASS Handlebars Gulp Bower](http://modularcode.github.io/modular-admin-html/assets/features.png)](http://modularcode.github.io/modular-admin-html/)
 
